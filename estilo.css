@@ -75,3 +75,28 @@ font-family:'Courier New', Courier, monospace ;
 .inicio p {
     text-align: justify;
 }
+
+.inicio h2 {
+    font-size: 30px;
+    letter-spacing: 2px;
+    font-weight: 100px;
+    margin: 30px 0 20px;
+    font-family: 'Londrina Shadow', cursive;
+}
+
+.talleres {
+    color: azure;
+    width: 1100px;
+    background: rgba(0, 0, 0, .4);
+    margin: 0 auto;
+    margin-top: 4%;
+    padding: 20px;
+    text-align: center;
+    border-radius: 15px;
+}
+
+.taller {
+    margin-right: 10px;
+    display: flexbox;
+
+}
