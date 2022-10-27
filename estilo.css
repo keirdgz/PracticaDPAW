@@ -48,10 +48,10 @@ font-family:'Courier New', Courier, monospace ;
 
 .inicio {
     color: azure;
-    width: 700px;
+    width: 1100px;
     background: rgba(0, 0, 0, .4);
     margin: 0 auto;
-    margin-top: 10%;
+    margin-top: 4%;
     padding: 20px;
     text-align: center;
     border-radius: 15px;
@@ -59,6 +59,10 @@ font-family:'Courier New', Courier, monospace ;
 
 .box-img {
     border-radius: 25px;
+}
+
+.box-img2 {
+    border-radius: 20px;
 }
 
 .inicio h1 {
