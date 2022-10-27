@@ -74,4 +74,6 @@ font-family:'Courier New', Courier, monospace ;
 
 .inicio p {
     text-align: justify;
+    background-color: rgba(221, 136, 105, 0.733);
+    background-size: cover;
 }
